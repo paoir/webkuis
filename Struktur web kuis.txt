@@ -1,0 +1,9 @@
+/kuis_app/
+│
+├── db.php
+├── index.php          → halaman login (input Nama & NPM)
+├── footer.php         → informasi footer
+├── quiz.php           → halaman kuis (20 soal)
+├── result.php         → menampilkan skor
+├── admin.php          → halaman rekap nilai
+└── sql_create.sql     → script membuat database
